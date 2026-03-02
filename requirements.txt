@@ -1,0 +1,10 @@
+python-telegram-bot
+langchain-groq
+langchain-community
+langchain-core
+langchain
+sentence-transformers
+faiss-cpu
+groq
+python-dotenv
+nest_asyncio
